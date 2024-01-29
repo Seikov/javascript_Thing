@@ -2,6 +2,7 @@
   width: 70%;
   margin: auto;
   text-align: center;
+  height: 100rem;
 }
 
 .dice {
@@ -10,8 +11,21 @@
 
 }
 
+.buttonc {
+text-align: center;
+width: 70%;
+margin: auto;
+}
+
+button {
+margin-top: 50px;
+margin-bottom: 100px;
+width: 80px;
+}
+
 body {
   background-color: #393E46;
+  height: 100vh;
 }
 
 h1 {
@@ -32,6 +46,7 @@ img {
   width: 80%;
 }
 
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
@@ -39,3 +54,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
